@@ -83,6 +83,9 @@
 }
 
 @media screen and (max-width: 780px){
+    .conteudo{
+        width: 90vw;
+    }
     .pontos{
         font-weight: bold;
         font-size: 1.1em;

@@ -23,6 +23,10 @@ span{
 }
 
 @media screen and (max-width: 780px){
+    .conteudo{
+        width: 90vw;
+    }
+
     .inicio h1{
         font-size: 1.6em;
     }
